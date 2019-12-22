@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview of the Project
-Building a webpage with a dynamic table to filter through data of UFO sightings. While the original task was to filter by date, the challenge task was to filter by more column headers. The following filters were required:
+Build a webpage with a dynamic table to filter through data of UFO sightings. While the original task was to filter by date, the challenge task was to filter by more column headers. The following filters were required:
 1. Date
 2. City
 3. State
